@@ -7,7 +7,7 @@
   "country": "USA",
   "type": "For Profit",
   "cross": 455451,
-  "ope": null,
+  "ope": "04244000",
   "bah": 2184,
   "poe": true,
   "yr": null,
@@ -26,7 +26,7 @@
   "avg_stu_loan_debt_rank": null,
   "indicator_group": null,
   "salary": null,
-  "calendar": null,
+  "calendar": "nontraditional",
   "tuition_in_state": 6000,
   "tuition_out_of_state": 6000
 }
